@@ -5,6 +5,9 @@ TikTok task for COMM 4190 at UPenn
 - Eric Zou
 - Parsa Idehpour
 
+## Overview
+This project utilized AI-assisted quantitative coding to label a dataset of selected TikTok comments from a sufficiently popular video containing a non-political difference in opinions. First, we decided on a research question to tackle within the data. Then, we manually coded 100 comments to establish a baseline and refine concepts used in generating a prompt for an AI assistant to follow. We iterated on the prompt till the LLM evaluator was sufficiently aligned on test data. Then, we use AI to label all 1000 comments in the data and completed the analysis required to gather evidence to answer our research question.
+
 ## Video
 [popcorn chicken is better than regular popcorn](https://www.tiktok.com/@nick.digiovanni/video/6915887479237266694) by [nick.digiovanni](https://www.tiktok.com/@nick.digiovanni)
 
